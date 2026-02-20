@@ -1,0 +1,16 @@
+package fundamentos;
+
+public class Temperaturas {
+
+	public static void main(String[] args) {
+		double f, c;
+		final double ajuste = 32.0;
+		final double fator = 5.0/9.0;
+		
+		f = 90.0;
+		
+		c = (f - ajuste) * fator;
+		
+		System.out.println("C = " + c);
+	}
+}

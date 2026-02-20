@@ -1,0 +1,25 @@
+package fundamentos;
+
+public class TiposPrimitivos {
+	
+	public static void main(String[] args) {
+		
+		
+		byte a = 5;
+		short b = 5;
+		int c = 5;
+		long d = 5;
+		
+		System.out.println("Byte = " + a);
+		System.out.println("Short = " + b);
+		System.out.println("Int = " + c);
+		System.out.println("Long = " + d);
+		
+		float e = 5;
+		double f = 5.5;
+		
+		System.out.println("Float = " + e);
+		System.out.println("Double = " + f);
+	}
+
+}

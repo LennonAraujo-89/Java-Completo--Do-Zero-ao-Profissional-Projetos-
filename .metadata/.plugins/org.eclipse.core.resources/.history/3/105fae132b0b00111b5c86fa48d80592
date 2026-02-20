@@ -1,0 +1,16 @@
+package fundamentos;
+
+public class Temperaturas {
+
+	public static void main(String[] args) {
+		double fahrenheit, celsius;
+		final double ajuste = 32;
+		final double fator = 5/9.0;
+		
+		fahrenheit = 90;
+		
+		celsius = (fahrenheit - ajuste) * fator;
+		
+		System.out.println("Celsius = " + celsius + "°C.2f");
+	}
+}
