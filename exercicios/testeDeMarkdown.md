@@ -1,11 +1,11 @@
 # Aprendendo a ~~Linguagem~~ Markdown
 ---
 
-#Título N1
+# Título N1
 
-##Título N2
+## Título N2
 
-###Título N3
+### Título N3
 
 ***
 
@@ -22,20 +22,20 @@ LIsta **numeradas**:
 
 Lista __demarcada__:
 
-*Teste
-*Teste
-*Teste
-   *teste
-*teste
+* Teste
+* Teste
+* Teste
+   * teste
+* teste
 
 
--Teste T
--Teste T
-   -Teste t
--Teste T
+- Teste T
+- Teste T
+   - Teste t
+- Teste T
 
 Lista de --Tarefa--:
 
--[]Criar a página principal
--[]Criar reunião
--[]Login
+-[] Criar a página principal
+-[] Criar reunião
+-[] Login
