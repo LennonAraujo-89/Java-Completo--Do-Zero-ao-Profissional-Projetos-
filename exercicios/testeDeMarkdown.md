@@ -47,3 +47,21 @@ NUM | NOME | NOTA
 2 | Samara | 9,9
 3 | Laura | 9,8
 4 | Livia | 9,7
+
+Testando crases em um comando `document.getElementById()` é da linguagem JavaScrip.
+
+Um código em Python
+```
+num = int(input('Digite um valor:')
+if num %2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+
+```
+
+Emogis
+
+Olá 🖖
+: e uma letra.
+🥇
