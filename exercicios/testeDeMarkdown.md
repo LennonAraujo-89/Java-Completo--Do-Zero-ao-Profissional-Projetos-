@@ -36,6 +36,6 @@ Lista __demarcada__:
 
 Lista de --Tarefa--:
 
--{} Criar a página principal
--{} Criar reunião
--{} Login
+-[] Criar a página principal
+-[] Criar reunião
+-[] Login
