@@ -1,8 +1,12 @@
 # Aprendendo a ~~Linguagem~~ Markdown
 ---
+
 #Título N1
+
 ##Título N2
+
 ###Título N3
+
 ***
 
 Misturando __*configurações*__
