@@ -42,7 +42,7 @@ Lista de --Tarefa--:
 
 
 NUM | NOME | NOTA
-
+---|---|---
 1 | Lennon | 10,0
 2 | Samara | 9,9
 3 | Laura | 9,8
