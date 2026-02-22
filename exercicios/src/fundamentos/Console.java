@@ -19,7 +19,7 @@ public class Console {
 
         System.out.printf("\nO senhor %s %s tem %d anos.", nome, sobrenome, idade);
 
-        System.out.print("\nDigite um numero: ");
+        System.out.print("\n\nDigite um numero: ");
         int a = entrence.nextInt();
 
         System.out.print("\nDigite um numero: ");
