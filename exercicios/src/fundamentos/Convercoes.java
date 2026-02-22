@@ -1,6 +1,5 @@
 package fundamentos;
 
-import java.math.BigDecimal;
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
@@ -17,7 +16,7 @@ public class Convercoes {
 
         int num2 = 20000;
         System.out.println(Integer.toString(num2));
-        
+
         */
 
         //Conversao de String para Numero
