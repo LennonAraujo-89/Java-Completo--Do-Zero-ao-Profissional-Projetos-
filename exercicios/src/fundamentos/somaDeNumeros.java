@@ -2,7 +2,11 @@ package fundamentos;
 
 public class somaDeNumeros {
 
+    
+
     public static void main(String[] args) {
+
+        /* Class criada para treino de Git e GitHub */
         
         int a, b, c;
         a = 2;
