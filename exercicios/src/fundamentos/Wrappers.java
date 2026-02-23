@@ -24,6 +24,8 @@ public class Wrappers {
         System.out.println(bo);
         System.out.println(bo.toString().toUpperCase());
 
+        System.out.println(s);
+
         entrada.close();
 
     }
