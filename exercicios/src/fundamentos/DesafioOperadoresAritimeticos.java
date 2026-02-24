@@ -24,6 +24,8 @@ public class DesafioOperadoresAritimeticos {
         
         double f = Math.pow(5, 2);
         System.out.println(f);
+
+        double ex = Math.pow(6 * (3 + 2), 2);
         */
 
         double p1 = (1 - 5) * (2 - 7) / 2;
