@@ -2,20 +2,20 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class ExerciciosCB3 {
+public class ExerciciosCB5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double peso, altura, imc;
-
-        System.out.println("Digite o peso: ");
-        peso = sc.nextDouble();
+        double base, altura, area;
+        System.out.println("Digite a base: ");
+        base = sc.nextDouble();
         System.out.println("Digite a altura: ");
         altura = sc.nextDouble();
 
-        imc = peso / (altura * altura);
+        area = (base * altura) / 2;
 
-        System.out.printf("IMC = %.2f", imc);
+        System.out.println("Area = " + area);
+
 
         sc.close();
     }
