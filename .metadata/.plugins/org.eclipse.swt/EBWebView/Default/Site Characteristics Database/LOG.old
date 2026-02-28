@@ -1,3 +1,5 @@
-2026/02/16-09:15:01.305 1c48 Reusing MANIFEST C:\Users\lenno\OneDrive\Documentos\Java Completo- Do Zero ao Profissional + Projetos!\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
-2026/02/16-09:15:01.307 1c48 Recovering log #3
-2026/02/16-09:15:01.307 1c48 Reusing old log C:\Users\lenno\OneDrive\Documentos\Java Completo- Do Zero ao Profissional + Projetos!\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+2026/02/28-06:25:08.023 2f98 Log #3: 8 ops saved to Table #4 OK
+2026/02/28-06:25:08.025 2f98 Archiving C:\Users\lenno\OneDrive\Documentos\Ropository\Java-Completo--Do-Zero-ao-Profissional-Projetos-\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2026/02/28-06:25:08.025 2f98 Table #4: 8 entries OK
+2026/02/28-06:25:08.026 2f98 Archiving C:\Users\lenno\OneDrive\Documentos\Ropository\Java-Completo--Do-Zero-ao-Profissional-Projetos-\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/28-06:25:08.031 2f98 **** Repaired leveldb C:\Users\lenno\OneDrive\Documentos\Ropository\Java-Completo--Do-Zero-ao-Profissional-Projetos-\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 267 bytes. Some data may have been lost. ****
