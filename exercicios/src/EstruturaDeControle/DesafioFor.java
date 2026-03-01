@@ -10,6 +10,11 @@ public class DesafioFor {
             num -= 2;
         }
 
+        
+        for(String valor = "#"; !valor.equalsIgnoreCase("#####"); valor += "#"){
+            System.out.println(valor);
+        }
+
     }
 
 }
