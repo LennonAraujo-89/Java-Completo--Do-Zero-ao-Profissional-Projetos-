@@ -23,6 +23,8 @@ public class DesafioWhile {
         double media = nota / quantidadeDeNotas;
         System.out.println("Media = " + media);
 
+        System.out.println(total);
+
         sc.close();
 
     }
