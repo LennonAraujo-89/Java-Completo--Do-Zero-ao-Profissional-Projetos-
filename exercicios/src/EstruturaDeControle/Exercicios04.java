@@ -12,6 +12,8 @@ public class Exercicios04 {
         System.out.println("Digite um numero: ");
         int x = sc.nextInt();
 
+        System.out.println(x);
+
         sc.close();
     }
 
