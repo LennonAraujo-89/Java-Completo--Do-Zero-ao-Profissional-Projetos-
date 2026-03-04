@@ -17,14 +17,14 @@ public class DataTeste {
         d1.mes = 03;
         d1.ano = 2026;
 
+        System.out.println(d1.dataFormatada());
+
         Data d2 = new Data();
         d2.dia = 17;
         d2.mes = 03;
         d2.ano = 2026;
 
-        System.out.println("Data 1: " + d1.dia + "/" + d1.mes + "/" + d1.ano);
-        System.out.println("Data 2: " + d2.dia + "/" + d2.mes + "/" + d2.ano);
-        
+        System.out.println(d2.dataFormatada());
     }
 
 }
