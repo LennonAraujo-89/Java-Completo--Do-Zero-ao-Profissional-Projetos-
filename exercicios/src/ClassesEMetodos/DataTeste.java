@@ -13,16 +13,10 @@ public class DataTeste {
         // utilizados em outras partes do programa.
         
         Data d1 = new Data();
-        d1.dia = 04;
-        d1.mes = 03;
-        d1.ano = 2026;
 
         System.out.println(d1.dataFormatada());
 
-        Data d2 = new Data();
-        d2.dia = 17;
-        d2.mes = 03;
-        d2.ano = 2026;
+        Data d2 = new Data(17, 03 , 1992);
 
         System.out.println(d2.dataFormatada());
     }
