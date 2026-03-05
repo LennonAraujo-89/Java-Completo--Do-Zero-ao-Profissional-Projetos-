@@ -9,6 +9,5 @@ public class Produto {
     double precoComDesconto() {
         return preco * (1 - desconto);
     }
-
 }
 

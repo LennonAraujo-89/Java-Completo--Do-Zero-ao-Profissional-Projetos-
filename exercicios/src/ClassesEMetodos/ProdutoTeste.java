@@ -20,6 +20,4 @@ public class ProdutoTeste {
         System.out.println("Preço com desconto: R$ " + valorFinal);
 
     }
-
-
 }
