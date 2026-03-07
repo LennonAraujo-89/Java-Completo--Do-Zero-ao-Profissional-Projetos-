@@ -1,4 +1,4 @@
-package ClassesEMetodos;
+package classesEMetodos;
 
 public class DesafioModuloJantar {
     public static void main(String[] args) {
