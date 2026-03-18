@@ -25,7 +25,7 @@ public class Matrizes {
             }
         }
 
-
+        System.out.println(total);
         sc.close();
     }
 
